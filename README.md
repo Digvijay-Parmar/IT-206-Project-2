@@ -30,14 +30,14 @@ following command on terminal
 
 ## Features
 
- - Our Project Has All Features that are mantion in Submit pdf Such as controlling Blocks,clearing of lines, Hard push and all other Game Mechanics and Progression that are mantion
+ - Our Project Has All Features that are mention in Submit pdf Such as controlling Blocks,clearing of lines, Hard push and all other Game Mechanics and Progression that are mention
  
  - We have added other featurs likes we can see next block at below in Next block section and Also it appears as Ghost block.
 
 - We have changed in Scoring section, You get points in Two ways:1) when you hard push certain block you get points in propotion cell in block.
   2) when a line is then also you get points.
 
-- As lines are clearing levels increases and as levels increase so will power of gravity i.e.spead of bolcks.
+- As lines are clearing levels increases and as levels increase so will power of gravity i.e.speed of bolcks.
 ## Demo
 
 video recording of game demostration is added in reposatery of project
